@@ -3,6 +3,8 @@
 
 ⚡ Sou aluna da Generation Brasil; <br>
 ⚡ Técnica em Informática para Internet (Web Design);
+⚡ E também uma pessoa apaixonada por tecnologi!
+
 
 <div align="left">
   <a href="https://github.com/vitoriarodris26">
