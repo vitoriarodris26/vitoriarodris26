@@ -1,4 +1,4 @@
-<h2>Olá! Meu nome é Vitória Rodrigues</h2>
+<h2>Olá, sou a Vitória Rodrigues e seja muito bem-vindo(a) ao meu universo!</h2>
 
 
 ⚡ Sou aluna da Generation Brasil; <br>
