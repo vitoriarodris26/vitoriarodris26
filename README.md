@@ -4,7 +4,7 @@
 ⚡ Sou aluna da Generation Brasil; <br>
 ⚡ Técnica em Informática para Internet (Web Design);
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/vitoriarodris26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriarodris26&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
 </div>
