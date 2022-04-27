@@ -3,7 +3,7 @@
 
 ⚡ Sou aluna da Generation Brasil; <br>
 ⚡ Técnica em Informática para Internet (Web Design);<BR>
-⚡ E também uma pessoa apaixonada por tecnologi!
+⚡ E também uma pessoa apaixonada por tecnologia!
 
 
 <div align="left">
