@@ -1,10 +1,10 @@
 <div align="center">
-<h2>Olá, sou a Vitória Rodrigues <img src= "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-</div><br>
+<h2>Hello World! sou a Vitória Rodrigues <img src= "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+</div>
 <div align ="center"
      
-⚡ Sou aluna da Generation Brasil; <br>
-⚡ Técnica em Informática para Internet (Web Design);<BR>
+⚡ Sou aluna da Generation Brasil - T53 <br>
+⚡ Técnica em Informática para Internet (Web Design) <br>
 ⚡ E também uma pessoa apaixonada por tecnologia!
  </div>
 
