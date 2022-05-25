@@ -3,8 +3,9 @@
 </div>
 <div>
      
-⚡ Sou aluna da Generation Brasil - T53 <br>
-⚡ Técnica em Informática para Internet (Web Design) <br>
+⚡ Aluna da UFABC - Universidade Federal do ABC | Bacharel. em Ciência & Tecnologia. <br>
+⚡Aluna da Generation Brasil - Java Full Stack - T53. <br>
+⚡ Técnica em Informática para Internet (Web Design). <br>
 ⚡ E também uma pessoa apaixonada por tecnologia!
  </div>
  <div>
