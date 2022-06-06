@@ -4,9 +4,8 @@
 <div>
      
 ⚡ Aluna da UFABC - Universidade Federal do ABC | Bacharel. em Ciência & Tecnologia. <br>
-⚡Aluna da Generation Brasil - Java Full Stack - T53. <br>
-⚡ Técnica em Informática para Internet (Web Design). <br>
-⚡ E também uma pessoa apaixonada por tecnologia!
+⚡ Aluna da Generation Brasil - Java Full Stack - T53. <br>
+
  </div>
  <div>
   <a href="https://github.com/vitoriarodris26">
