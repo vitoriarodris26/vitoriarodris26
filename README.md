@@ -4,7 +4,7 @@
 <div>
      
 :mortar_board:Aluna da UFABC - Universidade Federal do ABC | Bacharel. em Ciência & Tecnologia. <br>
-	:mortar_board:Aluna da Generation Brasil - Java Full Stack - T53. <br>
+	:mortar_board:Java Full Stack - Generation Brasil . <br>
   	:mortar_board:Técnica em Informática para Internet.
 
  </div><br>
