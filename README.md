@@ -3,12 +3,9 @@
 </div>
 <div>
      
-:mortar_board:Técnica em Informática para Internet.
+:mortar_board:Técnica em Informática para Internet. <br>
 :mortar_board:Engenharia da Computação - UNIVESP . <br>
 :mortar_board:Java Full Stack - Generation Brasil . <br>
-
-	:mortar_board:Java Full Stack - Generation Brasil . <br>
-  	:mortar_board:Técnica em Informática para Internet.
 
  </div><br>
  <div>
