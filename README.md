@@ -3,7 +3,7 @@
 </div>
 <div>
      
-:mortar_board:
+
 	:mortar_board:Java Full Stack - Generation Brasil . <br>
   	:mortar_board:Técnica em Informática para Internet.
 
