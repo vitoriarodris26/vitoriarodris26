@@ -3,7 +3,7 @@
 </div>
 <div>
      
-:mortar_board:Aluna da UFABC - Universidade Federal do ABC | Bacharel. em Ciência & Tecnologia. <br>
+:mortar_board:
 	:mortar_board:Java Full Stack - Generation Brasil . <br>
   	:mortar_board:Técnica em Informática para Internet.
 
