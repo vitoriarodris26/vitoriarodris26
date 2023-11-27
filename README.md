@@ -4,7 +4,7 @@
 <div>
      
 :mortar_board:Técnica em Informática para Internet. <br>
-:mortar_board:Engenharia da Computação - UNIVESP . <br>
+:mortar_board:Ciência de dados - Fatec Santana de Parnaíba. <br>
 :mortar_board:Java Full Stack - Generation Brasil . <br>
 
  </div><br>
