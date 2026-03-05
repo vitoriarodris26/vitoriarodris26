@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oiii eu sou a Vitória Rodrigues 👋
+# Oii eu sou a Vitória Rodrigues 👋
 💻 **Desenvolvedora Full Stack**  
 📊 Estudante de **Ciência de Dados - Fatec Santana de Parnaíba**  
 🚀 Apaixonada por **APIs, backend e desenvolvimento de software**
